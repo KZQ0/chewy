@@ -1,26 +1,26 @@
 {
    "token":"1",
    "channel_ids":[
-	  111111111111111
+	  1228102888581238915, 1236341281894957116
    ],
    "slash_ids":[
-	  11111111111111
+	  1228102888581238915, 1236341281894957116
    ],
    "slash_guild_ids":[
-      111111111111111
+      1228102888581238915, 1236341281894957116
    ],
    "claim_delay":8,
    "kak_delay":9,
    "use_emoji":"<:keqing_love:795077041761288214>",
    "roll_this":"wg",
    "rolling":"True",
-   "slash_rolling":"True",
+   "slash_rolling":"False",
    "pkmrolling":"True",
    "series_list":[
-      "Honkai Impact 3rd"
+      "¶"
    ],
    "namelist":[
-      "Raiden Mei"
+      "Hatsune Miku", "Hu Tao", "Sinon", "Roxy Migurdia", "Kirito", "Rimuru Tempest", "Rem", "Mai Sakurajima", "Satoru Gojou", "Power", "Nezuko Kamado", "Albedo", "Miku Nakano", "Kirby", "Shinobu Kochou", "Nico Robin", "Aqua", "Akame", "Yumeko Jabami", "2b", "Nino Nakano", "Chika Fujiwara", "Marin Kitagawa", "Kaguya Shinomiya", "Monkey D. Luffy", "Levi", "Esdeath", "Himiko Toga", "Shiro", "Akeno Himejima", "Kurumi Tokisaki", "Erza Scarlet", "Eren Jaeger", "Killua Zoldyck", "Darkness", "Nobara Kugisaki", "Komi Shouko", "Sanji", "Yuuji Itadori", "Gawr Gura"
    ],
    "emoji_list":[
 	  "kakera",	
@@ -38,10 +38,10 @@
       "KakeraW",
       "KakeraL"
    ],
-   "min_kak":500,
+   "min_kak":200,
    "Last_True":"True",
-   "last_claim_min": 61,
-   "min_kak_last_min": 10
+   "last_claim_min": 60,
+   "min_kak_last_min": 40
 }
 
 
